@@ -480,6 +480,7 @@
             ],
             "private_alternatives": [
                 { "id": "arch_linux", "name": "Arch Linux" },
+                { "id": "cachyos", "name": "CachyOS" },
                 { "id": "macos", "name": "macOS" },
                 { "id": "linux_mint", "name": "Linux Mint" },
                 { "id": "qubes_os", "name": "Qubes OS" },
