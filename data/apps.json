@@ -558,7 +558,8 @@
             "name": "Domain Hosting",
             "order": 28,
             "mainstream_apps": [
-                { "id": "godaddy", "name": "GoDaddy" }
+                { "id": "godaddy", "name": "GoDaddy" },
+                { "id": "namecheap", "name": "Namecheap" }
             ],
             "private_alternatives": [
                 { "id": "cloudflare", "name": "Cloudflare Registrar" },
